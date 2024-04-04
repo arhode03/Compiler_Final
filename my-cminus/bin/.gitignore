@@ -1,3 +1,17 @@
+/build.xml
+/cminus.flex
+/cminus.jacc
+/jacc.jar
+/jasmin.jar
+/jflex-full-1.8.2.jar
+/ArrRec.class
+/FunRec.class
+/GenCode.class
+/ParseMain.class
 /Parser.class
 /ParserTokens.class
+/ParserVal.class
+/SymTab.class
+/SymTabRec.class
+/VarRec.class
 /Yylex.class
