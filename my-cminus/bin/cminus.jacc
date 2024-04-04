@@ -1,5 +1,5 @@
 // cminus.jacc - parser for C-Minus programming language.
-// Author: Alex Rhodes, Jack Pollacov Jeremy Mast
+// Author: Your Name
 // Date: the date
 
 %{
